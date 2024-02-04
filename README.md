@@ -104,10 +104,10 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/001pythoninstall.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
+<figure class="wp-block-image aligncenter size-large"><img src="https://cryptodeep.ru/doc/gif/dustattack/001pythoninstall.gif" alt=""/></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/001pythoninstall.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#01</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/001pythoninstall.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#01</em></a></p>
 
 
 
