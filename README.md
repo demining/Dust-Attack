@@ -5,6 +5,16 @@
 <p></p>
 
 
+---
+
+
+* Tutorial: [https://cryptodeeptech.ru/dustattack](https://cryptodeeptech.ru/dustattack)
+* Tutorial: [https://dzen.ru/video/watch/65478a2f6d9f3f7ec9641804](https://dzen.ru/video/watch/65478a2f6d9f3f7ec9641804)
+
+
+---
+
+<p></p>
 
 <p>In this article we will cover a broad topic:&nbsp;<strong><a href="https://cryptodeeptech.ru/dustattack/" target="_blank" rel="noreferrer noopener">“Dust Attack”</a></strong>&nbsp;known as:&nbsp;<code>"Dusting&nbsp;Attack"</code>or&nbsp;<code>"Crypto Dust"</code>.&nbsp;Perhaps every cryptocurrency user or holder of a large amount of BTC, ETH coins replaced the receipt of an insignificantly small amount of coins in satoshi&nbsp;on their cryptocurrency wallet&nbsp;, this receipt is disguised as&nbsp;<code>"Donate"</code>, but in fact it is a whole mathematically refined system for taking away all the accumulated coins of the wallet on the balance sheet.&nbsp;The goal of revealing the system and all the pitfalls of “Dust Attack” was inspired and prompted by an article published on&nbsp;<em>January 8, 2024</em>&nbsp;.&nbsp;on the global cryptoeconomics website&nbsp;<strong><a href="https://www.coindesk.com/markets/2024/01/08/mysterious-12m-bitcoin-transaction-to-satoshi-nakamoto-sparks-speculations/" target="_blank" rel="noreferrer noopener">CoinDesk</a></strong></p>
 
