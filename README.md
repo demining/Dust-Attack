@@ -163,7 +163,7 @@
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/003coldwallet.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/003coldwallet.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#03</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/003coldwallet.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#03</em></a></p>
 
 
 
@@ -425,7 +425,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/004createraw.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/004createraw.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#04.1</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/004createraw.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#04.1</em></a></p>
 
 
 
@@ -467,7 +467,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/005isomorphism.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/005isomorphism.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#05.1</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/005isomorphism.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#05.1</em></a></p>
 
 
 
@@ -502,7 +502,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/006txidgithub.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/006txidgithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#06</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/006txidgithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#06</em></a></p>
 
 
 
@@ -529,7 +529,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/008opentxid.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/008opentxid.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#08</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/008opentxid.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#08</em></a></p>
 
 
 
@@ -564,7 +564,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/010pubkeygithub.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/010pubkeygithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#10</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/010pubkeygithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#10</em></a></p>
 
 
 
@@ -615,7 +615,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/012rawtxgithub.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/012rawtxgithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#12</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/012rawtxgithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#12</em></a></p>
 
 
 
@@ -893,7 +893,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/004createraw2.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/004createraw2.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#04.2</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/004createraw2.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#04.2</em></a></p>
 
 
 
@@ -931,11 +931,10 @@ RawTX for performing isomorphism:
 </blockquote>
 
 
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/005isomorphism2.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/005isomorphism2.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/005isomorphism2.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#05.2</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/005isomorphism2.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#05.2</em></a></p>
 
 
 
@@ -970,7 +969,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/007txidgithub.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/007txidgithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#07</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/007txidgithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#07</em></a></p>
 
 
 
@@ -997,7 +996,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/009opentxid.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/009opentxid.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#09</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/009opentxid.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#09</em></a></p>
 
 
 
@@ -1032,7 +1031,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/011pubkeygithub.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/011pubkeygithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#11</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/011pubkeygithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#11</em></a></p>
 
 
 
@@ -1083,7 +1082,7 @@ RawTX for performing isomorphism:
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/013rawtxgithub.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/013rawtxgithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#13</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/013rawtxgithub.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#13</em></a></p>
 
 
 
