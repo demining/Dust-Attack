@@ -146,7 +146,7 @@
 <figure class="aligncenter size-large"><img decoding="async" src="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/002downloadgetpip.gif" alt="DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC"></figure></div>
 
 
-<p class="has-text-align-center"><a href="./DUST ATTACK blockchain transaction with confirmation of isomorphism for a total amount of 10000 BTC - CRYPTO DEEP TECH_files/002downloadgetpip.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#02</em></a></p>
+<p class="has-text-align-center"><a href="https://cryptodeep.ru/doc/gif/dustattack/002downloadgetpip.gif" target="_blank" rel="noreferrer noopener"><em>Link to gif content</em>&nbsp;<em>#02</em></a></p>
 
 
 
