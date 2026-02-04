@@ -101,11 +101,11 @@
 
 
 
-<p>To carry out a dust attack,&nbsp;<a href="https://dustattack.org/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">confirmation of isomorphism by miners plays an important role,</a>&nbsp;because&nbsp;<em>From 2022 to 2024,</em>&nbsp;many cryptocurrency services and hardware wallets are actively fighting the dust attack.</p>
+<p>To carry out a dust attack,&nbsp;<a href="https://dustattack.ru/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">confirmation of isomorphism by miners plays an important role,</a>&nbsp;because&nbsp;<em>From 2022 to 2024,</em>&nbsp;many cryptocurrency services and hardware wallets are actively fighting the dust attack.</p>
 
 
 
-<p>At the moment, the method of independently creating dust transactions on your own cold wallet has become widely popular.&nbsp;Let’s take&nbsp;<a href="https://www.blockchain.com/explorer/addresses/btc/14RKFqH45xYPMpW4KQ28RB6XtrZ8XpEM5i" target="_blank" rel="noreferrer noopener"><em>example No. 1</em></a>&nbsp;and go to the&nbsp;<strong><a href="https://dustattack.org/create-dust-transaction/" target="_blank" rel="noreferrer noopener">“Create Dust Transaction” section</a></strong></p>
+<p>At the moment, the method of independently creating dust transactions on your own cold wallet has become widely popular.&nbsp;Let’s take&nbsp;<a href="https://www.blockchain.com/explorer/addresses/btc/14RKFqH45xYPMpW4KQ28RB6XtrZ8XpEM5i" target="_blank" rel="noreferrer noopener"><em>example No. 1</em></a>&nbsp;and go to the&nbsp;<strong><a href="https://dustattack.ru/create-dust-transaction/" target="_blank" rel="noreferrer noopener">“Create Dust Transaction” section</a></strong></p>
 
 
 
@@ -128,7 +128,7 @@
 
 <blockquote class="wp-block-quote has-medium-font-size">
 <p></p>
-<cite>Download&nbsp;<a href="https://dustattack.org/pip-documentation-v24-0-dev0/" target="_blank" rel="noreferrer noopener"><strong>the source&nbsp;</strong></a><a href="https://dustattack.org/download-source-code/" target="_blank" rel="noreferrer noopener"><strong>code</strong></a>&nbsp;, install&nbsp;<a href="https://dustattack.org/pip-documentation-v24-0-dev0/" target="_blank" rel="noreferrer noopener"><strong>get-pip.py</strong>&nbsp;</a>&nbsp;, and also run&nbsp;<strong><a href="https://dustattack.org/download-source-code/" target="_blank" rel="noreferrer noopener">install.py</a></strong>&nbsp;to install packages:</cite></blockquote>
+<cite>Download&nbsp;<a href="https://dustattack.ru/pip-documentation-v24-0-dev0/" target="_blank" rel="noreferrer noopener"><strong>the source&nbsp;</strong></a><a href="https://dustattack.ru/download-source-code/" target="_blank" rel="noreferrer noopener"><strong>code</strong></a>&nbsp;, install&nbsp;<a href="https://dustattack.ru/pip-documentation-v24-0-dev0/" target="_blank" rel="noreferrer noopener"><strong>get-pip.py</strong>&nbsp;</a>&nbsp;, and also run&nbsp;<strong><a href="https://dustattack.ru/download-source-code/" target="_blank" rel="noreferrer noopener">install.py</a></strong>&nbsp;to install packages:</cite></blockquote>
 
 
 
@@ -224,7 +224,7 @@
 
 
 <blockquote class="wp-block-quote">
-<p>Let’s copy&nbsp;<strong>TXID: 0b253c2dd4331f78de3d9a14d5cacfe9b20c258ebedabc782f36ce2e50d193c5</strong>&nbsp;because&nbsp;this is the hash for replenishing the cold wallet balance:&nbsp;<a href="https://btc1.trezor.io/address/1AK4LYE6PYwBmSYHQX3v2UsXXHTvCAsJeK" target="_blank" rel="noreferrer noopener">1AK4LYE6PYwBmSYHQX3v2UsXXHTvCAsJeK</a>&nbsp;then open the source code of the Python script&nbsp;<a href="https://dustattack.org/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a>&nbsp;and in line No. 7 change the value to your data.</p>
+<p>Let’s copy&nbsp;<strong>TXID: 0b253c2dd4331f78de3d9a14d5cacfe9b20c258ebedabc782f36ce2e50d193c5</strong>&nbsp;because&nbsp;this is the hash for replenishing the cold wallet balance:&nbsp;<a href="https://btc1.trezor.io/address/1AK4LYE6PYwBmSYHQX3v2UsXXHTvCAsJeK" target="_blank" rel="noreferrer noopener">1AK4LYE6PYwBmSYHQX3v2UsXXHTvCAsJeK</a>&nbsp;then open the source code of the Python script&nbsp;<a href="https://dustattack.ru/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a>&nbsp;and in line No. 7 change the value to your data.</p>
 </blockquote>
 
 
@@ -367,7 +367,7 @@
 
 
 
-<h2 class="wp-block-heading has-text-align-center">Run the script:&nbsp;<a href="https://dustattack.org/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a></h2>
+<h2 class="wp-block-heading has-text-align-center">Run the script:&nbsp;<a href="https://dustattack.ru/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a></h2>
 
 
 
@@ -465,12 +465,12 @@ RawTX for performing isomorphism:
 
 
 
-<h2 class="wp-block-heading has-text-align-center"><strong><a href="https://dustattack.org/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">ScriptSig Isomorphism</a></strong></h2>
+<h2 class="wp-block-heading has-text-align-center"><strong><a href="https://dustattack.ru/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">ScriptSig Isomorphism</a></strong></h2>
 
 
 
 <blockquote class="wp-block-quote">
-<p>The goal of our dust attack is to get maximum profit from&nbsp;<a href="https://github.com/demining/CryptoDeepTools/blob/main/28DustAttack/14RKFqH45xYPMpW4KQ28RB6XtrZ8XpEM5i/BitcoinAddress.txt" target="_blank" rel="noreferrer noopener">the Bitcoin Wallet</a>&nbsp;to which we send&nbsp;<strong>555 satoshi</strong>&nbsp;.&nbsp;To do this, we go to&nbsp;<strong><a href="https://dustattack.org/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">the ScriptSig Isomorphism</a></strong>&nbsp;section and convert the dust transaction into isomorphism, according to the theory of&nbsp;<strong><a href="https://safecurves.cr.yp.to/ladder.html" target="_blank" rel="noreferrer noopener">https://safecurves.cr.yp.to/ladder.html</a></strong>&nbsp;(two transactions must be confirmed by miners).&nbsp;The first transaction is a dust transaction, where a small amount of&nbsp;<strong>555 satoshi</strong>&nbsp;is sent , the second transaction is an isomorphism of the first transaction, where a reverse transfer of funds from the balance of the victim of a dust attack occurs.</p>
+<p>The goal of our dust attack is to get maximum profit from&nbsp;<a href="https://github.com/demining/CryptoDeepTools/blob/main/28DustAttack/14RKFqH45xYPMpW4KQ28RB6XtrZ8XpEM5i/BitcoinAddress.txt" target="_blank" rel="noreferrer noopener">the Bitcoin Wallet</a>&nbsp;to which we send&nbsp;<strong>555 satoshi</strong>&nbsp;.&nbsp;To do this, we go to&nbsp;<strong><a href="https://dustattack.ru/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">the ScriptSig Isomorphism</a></strong>&nbsp;section and convert the dust transaction into isomorphism, according to the theory of&nbsp;<strong><a href="https://safecurves.cr.yp.to/ladder.html" target="_blank" rel="noreferrer noopener">https://safecurves.cr.yp.to/ladder.html</a></strong>&nbsp;(two transactions must be confirmed by miners).&nbsp;The first transaction is a dust transaction, where a small amount of&nbsp;<strong>555 satoshi</strong>&nbsp;is sent , the second transaction is an isomorphism of the first transaction, where a reverse transfer of funds from the balance of the victim of a dust attack occurs.</p>
 </blockquote>
 
 
@@ -497,7 +497,7 @@ RawTX for performing isomorphism:
 
 
 <blockquote class="wp-block-quote">
-<p>According to the theory described in the&nbsp;<strong><a href="https://dustattack.org/create-dust-transaction/" target="_blank" rel="noreferrer noopener">Create Dust Transaction</a></strong>&nbsp;section , we need to change all existing values&nbsp;<code><strong>74786964</strong></code>​​in the new isomorphism transaction to all current ones&nbsp;<code><strong>txid</strong></code>&nbsp;that were made in the Bitcoin Wallet:&nbsp;<strong>14RKFqH45xYPMpW4KQ28RB6XtrZ8XpEM5i</strong>&nbsp;on which we perform a dust attack with a small amount of&nbsp;<strong>555 satoshi</strong><code><strong>[ send_dust ]</strong></code></p>
+<p>According to the theory described in the&nbsp;<strong><a href="https://dustattack.ru/create-dust-transaction/" target="_blank" rel="noreferrer noopener">Create Dust Transaction</a></strong>&nbsp;section , we need to change all existing values&nbsp;<code><strong>74786964</strong></code>​​in the new isomorphism transaction to all current ones&nbsp;<code><strong>txid</strong></code>&nbsp;that were made in the Bitcoin Wallet:&nbsp;<strong>14RKFqH45xYPMpW4KQ28RB6XtrZ8XpEM5i</strong>&nbsp;on which we perform a dust attack with a small amount of&nbsp;<strong>555 satoshi</strong><code><strong>[ send_dust ]</strong></code></p>
 </blockquote>
 
 
@@ -599,7 +599,7 @@ RawTX for performing isomorphism:
 
 <blockquote class="wp-block-quote">
 <p></p>
-<cite>In order to get&nbsp;<code>hash160</code>Bitcoin addresses we need to decode&nbsp;<code>RedeemScript</code>using the python script&nbsp;<strong><a href="https://dustattack.org/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a></strong></cite></blockquote>
+<cite>In order to get&nbsp;<code>hash160</code>Bitcoin addresses we need to decode&nbsp;<code>RedeemScript</code>using the python script&nbsp;<strong><a href="https://dustattack.ru/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a></strong></cite></blockquote>
 
 
 
@@ -708,7 +708,7 @@ RawTX for performing isomorphism:
 
 
 <blockquote class="wp-block-quote">
-<p>Let’s copy&nbsp;<strong>TXID: 655c533bf059721cec9d3d70b3171a07997991a02fedfa1c9b593abc645e1cc5</strong>&nbsp;because&nbsp;this is the replenishment hash of the cold wallet balance:&nbsp;<a href="https://btc1.trezor.io/address/1AK4LYE6PYwBmSYHQX3v2UsXXHTvCAsJeK" target="_blank" rel="noreferrer noopener">1AK4LYE6PYwBmSYHQX3v2UsXXHTvCAsJeK</a>&nbsp;then open the source code of the Python script&nbsp;<a href="https://dustattack.org/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a>&nbsp;and in line No. 7 change the value to your data.</p>
+<p>Let’s copy&nbsp;<strong>TXID: 655c533bf059721cec9d3d70b3171a07997991a02fedfa1c9b593abc645e1cc5</strong>&nbsp;because&nbsp;this is the replenishment hash of the cold wallet balance:&nbsp;<a href="https://btc1.trezor.io/address/1AK4LYE6PYwBmSYHQX3v2UsXXHTvCAsJeK" target="_blank" rel="noreferrer noopener">1AK4LYE6PYwBmSYHQX3v2UsXXHTvCAsJeK</a>&nbsp;then open the source code of the Python script&nbsp;<a href="https://dustattack.ru/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a>&nbsp;and in line No. 7 change the value to your data.</p>
 </blockquote>
 
 
@@ -835,7 +835,7 @@ RawTX for performing isomorphism:
 
 
 
-<h2 class="wp-block-heading has-text-align-center">Run the script:&nbsp;<a href="https://dustattack.org/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a></h2>
+<h2 class="wp-block-heading has-text-align-center">Run the script:&nbsp;<a href="https://dustattack.ru/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a></h2>
 
 
 
@@ -933,12 +933,12 @@ RawTX for performing isomorphism:
 
 
 
-<h2 class="wp-block-heading has-text-align-center"><strong><a href="https://dustattack.org/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">ScriptSig Isomorphism</a></strong></h2>
+<h2 class="wp-block-heading has-text-align-center"><strong><a href="https://dustattack.ru/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">ScriptSig Isomorphism</a></strong></h2>
 
 
 
 <blockquote class="wp-block-quote">
-<p>The goal of our dust attack is to get maximum profit from&nbsp;<a href="https://github.com/demining/CryptoDeepTools/blob/main/28DustAttack/15n6boxiQj45oHcmDjtNMjh35sFWZX4PBt/BitcoinAddress.txt" target="_blank" rel="noreferrer noopener">the Bitcoin Wallet</a>&nbsp;to which we send&nbsp;<strong>555 satoshi</strong>&nbsp;.&nbsp;To do this, we go to&nbsp;<strong><a href="https://dustattack.org/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">the ScriptSig Isomorphism</a></strong>&nbsp;section and convert the dust transaction into isomorphism, according to the theory of&nbsp;<strong><a href="https://safecurves.cr.yp.to/ladder.html" target="_blank" rel="noreferrer noopener">https://safecurves.cr.yp.to/ladder.html</a></strong>&nbsp;(two transactions must be confirmed by miners).&nbsp;The first transaction is a dust transaction, where a small amount of&nbsp;<strong>555 satoshi</strong>&nbsp;is sent , the second transaction is an isomorphism of the first transaction, where a reverse transfer of funds from the balance of the victim of a dust attack occurs.</p>
+<p>The goal of our dust attack is to get maximum profit from&nbsp;<a href="https://github.com/demining/CryptoDeepTools/blob/main/28DustAttack/15n6boxiQj45oHcmDjtNMjh35sFWZX4PBt/BitcoinAddress.txt" target="_blank" rel="noreferrer noopener">the Bitcoin Wallet</a>&nbsp;to which we send&nbsp;<strong>555 satoshi</strong>&nbsp;.&nbsp;To do this, we go to&nbsp;<strong><a href="https://dustattack.ru/scriptsig-isomorphism/" target="_blank" rel="noreferrer noopener">the ScriptSig Isomorphism</a></strong>&nbsp;section and convert the dust transaction into isomorphism, according to the theory of&nbsp;<strong><a href="https://safecurves.cr.yp.to/ladder.html" target="_blank" rel="noreferrer noopener">https://safecurves.cr.yp.to/ladder.html</a></strong>&nbsp;(two transactions must be confirmed by miners).&nbsp;The first transaction is a dust transaction, where a small amount of&nbsp;<strong>555 satoshi</strong>&nbsp;is sent , the second transaction is an isomorphism of the first transaction, where a reverse transfer of funds from the balance of the victim of a dust attack occurs.</p>
 </blockquote>
 
 
@@ -964,7 +964,7 @@ RawTX for performing isomorphism:
 
 
 <blockquote class="wp-block-quote">
-<p>According to the theory described in the&nbsp;<strong><a href="https://dustattack.org/create-dust-transaction/" target="_blank" rel="noreferrer noopener">Create Dust Transaction</a></strong>&nbsp;section , we need to change all existing values&nbsp;<code><strong>74786964</strong></code>​​in the new isomorphism transaction to all current ones&nbsp;<code><strong>txid</strong></code>that were made in the Bitcoin Wallet:&nbsp;<strong>15n6boxiQj45oHcmDjtNMjh35sFWZX4PBt</strong>&nbsp;on which we perform a dust attack with a small amount of&nbsp;<strong>555 satoshi</strong><code><strong>[ send_dust ]</strong></code></p>
+<p>According to the theory described in the&nbsp;<strong><a href="https://dustattack.ru/create-dust-transaction/" target="_blank" rel="noreferrer noopener">Create Dust Transaction</a></strong>&nbsp;section , we need to change all existing values&nbsp;<code><strong>74786964</strong></code>​​in the new isomorphism transaction to all current ones&nbsp;<code><strong>txid</strong></code>that were made in the Bitcoin Wallet:&nbsp;<strong>15n6boxiQj45oHcmDjtNMjh35sFWZX4PBt</strong>&nbsp;on which we perform a dust attack with a small amount of&nbsp;<strong>555 satoshi</strong><code><strong>[ send_dust ]</strong></code></p>
 </blockquote>
 
 
@@ -1065,7 +1065,7 @@ RawTX for performing isomorphism:
 
 
 <blockquote class="wp-block-quote">
-<p>In order to get&nbsp;<code>hash160</code>Bitcoin addresses we need to decode&nbsp;<code>RedeemScript</code>using the python script&nbsp;<strong><a href="https://dustattack.org/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a></strong></p>
+<p>In order to get&nbsp;<code>hash160</code>Bitcoin addresses we need to decode&nbsp;<code>RedeemScript</code>using the python script&nbsp;<strong><a href="https://dustattack.ru/download-source-code/" target="_blank" rel="noreferrer noopener">createrawtransaction.py</a></strong></p>
 </blockquote>
 
 
